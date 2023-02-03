@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\bin\Debug\net6.0\6 ConsoleExplorer.exe
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\bin\Debug\net6.0\6 ConsoleExplorer.deps.json
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\bin\Debug\net6.0\6 ConsoleExplorer.runtimeconfig.json
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\bin\Debug\net6.0\6 ConsoleExplorer.dll
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\bin\Debug\net6.0\6 ConsoleExplorer.pdb
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.dll
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\refint\6 ConsoleExplorer.dll
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.pdb
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\6 ConsoleExplorer.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\6 ConsoleExplorer\6 ConsoleExplorer\6 ConsoleExplorer\obj\Debug\net6.0\ref\6 ConsoleExplorer.dll
